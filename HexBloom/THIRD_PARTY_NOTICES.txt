@@ -445,6 +445,47 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
+HexBloom / 寸土万生 — Music and sound effects
+
+All clips listed below are distributed under CC0 1.0 Universal.
+Free to use, adapt and distribute, including commercial games.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Music: Forget Me Not — Music by Kistol.
+Game file: music/forget_me_not_in_f_major_looped.ogg
+Source: https://opengameart.org/content/forget-me-not
+Original file: https://opengameart.org/sites/default/files/forget_me_not_in_f_major_looped.ogg
+CC0 1.0 Universal, as listed on the author's page, checked 2026-11-19.
+The author's looped recording is used unchanged. Playback volume is set in Godot.
+
+Game file          Original file                 Author and source
+rotate.wav         Audio/card-slide-2.ogg        Kenney, Casino Audio 1.1
+piece.wav          Audio/chip-lay-1.ogg          Kenney, Casino Audio 1.1
+https://kenney.nl/assets/casino-audio
+
+place.wav          Audio/impactWood_medium_000.ogg   Kenney, Impact Sounds 1.0
+https://kenney.nl/assets/impact-sounds
+
+score.wav          Audio/pluck_001.ogg           Kenney, Interface Sounds 1.0
+https://kenney.nl/assets/interface-sounds
+Archived score sample; currently unused in gameplay.
+
+flower_join.wav    moving leaves stereo.ogg      Augmentality (Brandon Morris)
+forest_join.wav    moving leaves stereo.ogg      Augmentality (Brandon Morris)
+The two join samples above are archived and unused in gameplay.
+flower_close.wav   moving leaves stereo.ogg      Augmentality (Brandon Morris)
+forest_close.wav   moving leaves stereo.ogg      Augmentality (Brandon Morris)
+Collection: Random Sounds Samples, submitted by HaelDB.
+https://opengameart.org/content/random-sounds-samples
+File: https://opengameart.org/sites/default/files/moving%20leaves%20stereo.ogg
+The author offers OGA-BY 3.0 and CC0. These excerpts use the CC0 option.
+
+Game edits: short excerpts, mono mix, EQ, fades, level adjustment, resampling
+to 22.05 kHz / 16-bit PCM WAV, and speed changes for the leaf variations.
+Material and licenses checked on 2026-11-19. Kenney's three upstream notices
+are preserved alongside this file as LICENSE-*.txt.
+
+
 Godot Engine 4.7.2-stable (official) — MIT
 
 Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md).
