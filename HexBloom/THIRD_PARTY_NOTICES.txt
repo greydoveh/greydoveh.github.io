@@ -39,7 +39,7 @@ HexBloom 第三方字体说明
 
 4. 悠哉字体 / Yozai Regular、Medium
 状态：编辑器与原生使用原版，Web 使用本项目裁剪并重新命名的 HexBloom Body Regular 和 Medium。
-用途：规则、结算与长操作说明；规则正文中的强调使用 Medium。
+用途：规则、结算与长操作说明；主题默认粗体使用 Medium。
 版本：v0.868，官方原版，未修改
 来源：https://github.com/lxgw/yozai-font/releases/tag/v0.868
 项目文件：yozai/Yozai-Regular.ttf、yozai/Yozai-Medium.ttf
