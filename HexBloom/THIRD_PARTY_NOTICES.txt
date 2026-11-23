@@ -37,18 +37,18 @@ HexBloom 第三方字体说明
 许可：SIL Open Font License 1.1
 完整版权与许可：xiaolai/OFL.txt
 
-4. 悠哉字体 / Yozai Regular
-状态：编辑器与原生使用原版，Web 使用本项目裁剪并重新命名的 HexBloom Body Regular。
-用途：规则、结算、长操作说明与工具提示。
+4. 悠哉字体 / Yozai Regular、Medium
+状态：编辑器与原生使用原版，Web 使用本项目裁剪并重新命名的 HexBloom Body Regular 和 Medium。
+用途：规则、结算与长操作说明；规则正文中的强调使用 Medium。
 版本：v0.868，官方原版，未修改
 来源：https://github.com/lxgw/yozai-font/releases/tag/v0.868
-项目文件：yozai/Yozai-Regular.ttf
+项目文件：yozai/Yozai-Regular.ttf、yozai/Yozai-Medium.ttf
 原始版权：Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)
 原始版权：Copyright (c) 2021-03-07, Y.Oz (Y.OzVox) (http://yozvox.web.fc2.com), words containing "Y.Oz" or "YOz" are reserved as font names.
 许可：SIL Open Font License 1.1
 完整版权与许可：yozai/OFL.txt
 
-三个 Web 子集均由 tools/subset_web_fonts.py 从上述原版生成，沿用对应的 SIL Open Font License 1.1 和原始版权声明。
+以上 Web 子集由 tools/subset_web_fonts.py 从上述原版生成，沿用对应的 SIL Open Font License 1.1 和原始版权声明。
 字体各自继续适用其许可。字体许可不要求 HexBloom 的游戏代码或美术采用相同许可。
 
 
